@@ -11,7 +11,7 @@ const routes = [
       {
         path: "",
         name: "movies",
-        component: () => import("pages/CardPage.vue"),
+        component: () => import("pages/MoviePage/MoviePage.vue"),
       },
     ],
   },

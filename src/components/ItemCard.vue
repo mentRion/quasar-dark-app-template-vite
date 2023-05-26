@@ -1,5 +1,4 @@
 <template>
-  <!-- <div class="row q-col-gutter-lg q-pa-lg"> -->
   <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
     <q-card class="my-card" flat>
       <q-img :src="image" height="200px"> </q-img>
@@ -21,7 +20,6 @@
       </q-card-actions>
     </q-card>
   </div>
-  <!-- </div> -->
 </template>
 
 <script>
